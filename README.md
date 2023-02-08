@@ -1,2 +1,2 @@
 # ECON390
-Code used for group 6 of Econ 390
+Duke University/Spring 2023: Econ 390:Tracking warzone economic activity in Ukraine/Code
